@@ -1,4 +1,6 @@
 # Phone_IMU_Blender_object_control
+Each smartphone has multiple internal sensors that will detect how the phone is used in it's environment. I used these sensors to control the orientation of an object in UPBGE, a forked version of Blender.
+The objects orientation is adapted in real time through the setup of a TCP client-server connection between a python script and app on my phone. 
 video with the full explanation: https://youtu.be/aMQK_xXKQcY
 
 
